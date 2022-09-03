@@ -1,0 +1,7 @@
+package com.gagan.dsa;
+
+public class Gcd {
+	public int getGcd(int num1, int num2) {
+		return;
+	}
+}

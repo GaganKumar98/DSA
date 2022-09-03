@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="&#x09;&#x09;System.out.println(&quot;Prime Number&quot;);" key="selection"/>
+		<list key="findhistory">
+			<item value="&#x09;&#x09;System.out.println(&quot;Prime Number&quot;);"/>
+			<item value="&#x09;Gcd gd = new Gcd();"/>
+			<item value="&#x09;System.out.println(&quot;Enter 1st number&quot;);"/>
+			<item value="&#x0D;&#x0A;&#x09;&#x09;Gcd gd = new Gcd();&#x0D;&#x0A;&#x09;&#x09;int n1, n2 = 0;&#x0D;&#x0A;&#x09;&#x09;System.out.println(&quot;Enter 1st number&quot;);&#x0D;&#x0A;&#x09;&#x09;n1 = sc.nextInt();&#x0D;&#x0A;&#x09;&#x09;System.out.println(&quot;Enter 2nd number&quot;);&#x0D;&#x0A;&#x09;&#x09;n2 = sc.nextInt();&#x0D;&#x0A;&#x09;&#x09;System.out.println(gd.getGcd(n1, n2));"/>
+			<item value="Gcd gd = new Gcd();"/>
+		</list>
+	</section>
+</section>
